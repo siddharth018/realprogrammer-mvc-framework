@@ -1,5 +1,4 @@
-## About
-<h2>PHP MVC framework</h2>
+## PHP MVC framework
 
 <p>Realprogrammer custom framework created for educational purposes.</p>
 <h2>Step 1: download in your system.</h2>  
@@ -29,7 +28,7 @@ twig template
 
 # Html Templete
     (https://demos.onepagelove.com/html/carta/)
-        
+
 ## Youtube
 Join in youtube
 
