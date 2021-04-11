@@ -1,0 +1,18 @@
+[11-Apr-2021 05:17:26 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/MAMP/htdocs/realprogrammer/config/web.php(14): System\Router->dispatch('dd')
+#1 /Applications/MAMP/htdocs/realprogrammer/public/index.php(21): require('/Applications/M...')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/realprogrammer/system/Router.php' on line 129
+[11-Apr-2021 05:17:44 UTC] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 /Applications/MAMP/htdocs/realprogrammer/config/web.php(14): System\Router->dispatch('dd')
+#1 /Applications/MAMP/htdocs/realprogrammer/public/index.php(21): require('/Applications/M...')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/realprogrammer/system/Router.php' on line 129
+[11-Apr-2021 06:49:15 UTC] Uncaught exception: 'Error' with message 'Call to undefined method System\Router::get()'
+Stack trace: #0 /Applications/MAMP/htdocs/realprogrammer/public/index.php(21): require()
+#1 {main}
+Thrown in '/Applications/MAMP/htdocs/realprogrammer/config/web.php' on line 10
+[11-Apr-2021 06:49:17 UTC] Uncaught exception: 'Error' with message 'Call to undefined method System\Router::get()'
+Stack trace: #0 /Applications/MAMP/htdocs/realprogrammer/public/index.php(21): require()
+#1 {main}
+Thrown in '/Applications/MAMP/htdocs/realprogrammer/config/web.php' on line 10

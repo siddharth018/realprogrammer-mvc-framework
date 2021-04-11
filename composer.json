@@ -1,0 +1,20 @@
+{
+    "name": "realprogrammer/realprogrammer",
+    "type": "project",
+    "description": "The realprogrammer Framework.",
+    "keywords": [
+        "framework",
+        "realprogrammer"
+    ],
+    "require": {
+        "twig/twig": "^3.0",
+        "symfony/http-client": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "System\\": "system/",
+            "App\\": "app/",
+            "Config\\": "config/"
+        }
+    }
+}
