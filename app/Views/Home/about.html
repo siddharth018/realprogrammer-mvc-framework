@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block body %}
+<div class="container pt3 mt2 text--gray align--center">
+    <h2 class="mb2">Welcome to about us pages</h2>
+    <img class="logo mb3" src="../storage/assets/images/logo.jpeg" alt="Assign to others">
+</div>
+    <ul>
+        {% for users in user %}
+        <li>{{ users.name }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
