@@ -4,7 +4,6 @@ namespace System;
 
 /**
  * Router
- *
  */
 class Router
 {
