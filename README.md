@@ -1,49 +1,39 @@
 ## About
-        laravel 8 bootstrap auth scaffolding real programmer
+<h2>PHP MVC framework</h2>
+
+<p>Realprogrammer custom framework created for educational purposes.</p>
 <h2>Step 1: download in your system.</h2>  
     
-        git clone https://github.com/siddharth018/laravel-8-bootstrap-auth-scaffolding.git
+        git clone https://github.com/siddharth018/realprogrammer-mvc-framework.git
 
-        cd laravel-8-bootstrap-auth-scaffolding
+        cd realprogrammer-mvc-framework
     
-<h2>Step 2: Configure your database from .env file</h2> 
+<h2>Step 2: Configure your database from config/app.php file</h2> 
     
-        DB_CONNECTION=mysql
-        DB_HOST=127.0.0.1
-        DB_PORT=3306
-        DB_DATABASE=laravel-8-bootstrap-auth-scaffolding
-        DB_USERNAME=root
-        DB_PASSWORD=root@123
-    
-<h2>Step 3: Migrate</h2> 
 
-        php artisan migrate
-    
-<h2>Step 4: Install composer</h2> 
+<h2>Step 3: Install composer</h2> 
 
         composer install
-    
-<h2>Step 5: key generate</h2> 
 
-        php artisan key:generate
-    
-<h2>Step 6: Run server</h2>  
+## symfony
+Reference symfony
+    (https://twig.symfony.com/doc/3.x/api.html#rendering-templates)
 
-        php artisan serve
-    
-        http://127.0.0.1:8000/register 
-        http://127.0.0.1:8000/login
-        http://127.0.0.1:8000/dashboard
+## Laravel
+Reference Laravel
+    (https://github.com/laravel/laravel)
 
+## twig
+twig template 
+    (https://twig.symfony.com/)
+
+# Html Templete
+    (https://demos.onepagelove.com/html/carta/)
+        
 ## Youtube
 Join in youtube
 
 (https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber).
-
-## Facebook
-Join in Facebook
-
-(https://www.facebook.com/siddharthshukla181992/?modal=admin_todo_tour)
 
 ## Instagram
 Join in Instagram
@@ -72,16 +62,3 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
     <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
   </a>
 </p>
-
-
-Reference symfony: https://symfony.com/doc/current/templates.html
-
-Reference Laravel: https://github.com/laravel/laravel
-
-twig template https://twig.symfony.com/
-
-Reference Html Templete: https://demos.onepagelove.com/html/carta/
-
-Reference Html Templete: https://twig.symfony.com/doc/3.x/api.html#rendering-templates
-
-Logo: http://therealprogrammer.com
